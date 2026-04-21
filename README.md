@@ -19,10 +19,10 @@ Implemented content-addressable storage using SHA-256 hashing. Objects are store
 ### Screenshots
 
 **Screenshot 1A: Object Storage Tests**
-![Phase 1A - Test Output](Screenshots/1A.png)
+![Phase 1A - Test Output](screenshots/PHASE1D1.png)
 
 **Screenshot 1B: Sharded Object Store Structure**
-![Phase 1B - Object Directory](Screenshots/1B.png)
+![Phase 1B - Object Directory](screenshots/PHASE1D2.png)
 
 ---
 
@@ -39,10 +39,10 @@ Implemented tree serialization to represent directory structures. Trees contain 
 ### Screenshots
 
 **Screenshot 2A: Tree Tests Passing**
-![Phase 2A - Test Output](Screenshots/2A.png)
+![Phase 2A - Test Output](screenshots/PHASE2D1.png)
 
 **Screenshot 2B: Raw Tree Object Binary Format**
-![Phase 2B - Binary Dump](Screenshots/2B.png)
+![Phase 2B - Binary Dump](screenshots/PHASE2D2.png)
 
 ---
 
@@ -60,10 +60,10 @@ Implemented the staging area as a text-based file format. The index tracks which
 ### Screenshots
 
 **Screenshot 3A: PES Status Output**
-![Phase 3A - Status Output](Screenshots/3A.png)
+![Phase 3A - Status Output](screenshots/PHASE3D1.png)
 
 **Screenshot 3B: Index File Contents**
-![Phase 3B - Index Contents](Screenshots/3B.png)
+![Phase 3B - Index Contents](Screenshots/PHASE3D2.png)
 
 ---
 
@@ -80,18 +80,13 @@ Implemented commit creation and history traversal. Commits tie together trees wi
 ### Screenshots
 
 **Screenshot 4A: Commit Log with Three Commits**
-![Phase 4A - Log Output](Screenshots/4A.png)
+![Phase 4A - Log Output](screenshots/PHASE4D1.png)
 
 **Screenshot 4B: Object Store Growth After Commits**
-![Phase 4B - Object Files](Screenshots/4B.png)
+![Phase 4B - Object Files](screenshots/PHASE4D2.png)
 
 **Screenshot 4C: Reference Chain (HEAD and main)**
-![Phase 4C - Refs](Screenshots/4C.png)
-
-**Final Screenshot: Test Integrations**  
-![Final Screenshot](Screenshots/final.png)
-
----
+![Phase 4C - Refs](screenshots/PHASE4D3.png)
 
 ## Phase 5: Branching and Checkout (Analysis)
 
