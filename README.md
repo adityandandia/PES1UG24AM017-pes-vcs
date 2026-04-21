@@ -63,7 +63,7 @@ Implemented the staging area as a text-based file format. The index tracks which
 ![Phase 3A - Status Output](screenshots/PHASE3D1.png)
 
 **Screenshot 3B: Index File Contents**
-![Phase 3B - Index Contents](Screenshots/PHASE3D2.png)
+![Phase 3B - Index Contents](screenshots/PHASE3D2.png)
 
 ---
 
